@@ -23,7 +23,7 @@ logger = logging.getLogger(__name__)
 #section:constants
 ###########################################################################################################################################################################
 
-bot=telegram.Bot("5648145804:AAFGzLMQN0pRE8cmIOKILzIie900mSfwAr0")
+bot=telegram.Bot("<your token>")
 # chat_id=''
 
 
